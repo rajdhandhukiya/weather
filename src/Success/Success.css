@@ -1,0 +1,110 @@
+.successMain {
+    height: 100vh;
+}
+
+.homeMain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.cardMain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.card {
+    border: 1px solid black;
+    height: 321px;
+    width: 335px;
+    background-color: #fff;
+}
+
+.cloudsIcon {
+    height: 55px;
+    width: 55px;
+}
+
+.iconClouds {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.temparature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tempDeg {
+    font-size: 40px;
+}
+
+.description {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.humidityTxt {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #a8a8a8;
+
+}
+
+.fewClouds {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif !important;
+    color: #7c7c7c;
+
+}
+
+.windTxt {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #7c7c7c;
+
+}
+
+.tempMain {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 52px 0px 24px 0px;
+}
+
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.locat {
+    color: #a8a8a8;
+    font-size: 14px !important;
+}
+
+.london {
+    color: #a8a8a8;
+    font-size: 14px !important;
+}
+
+.locatLondon {
+    margin-left: 5px;
+}
+
+.homeBtn {
+    padding: 5px 15px;
+    background-color: #a8a8a8;
+    border-width: 0px;
+}
+
+.homeBtn:hover {
+    background-color: #a8a8a8;
+    color: black;
+}

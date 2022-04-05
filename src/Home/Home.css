@@ -1,0 +1,59 @@
+.homeMain {
+    background-color: #347abe !important;
+}
+
+.weatherMain {
+    padding-top: 120px;
+}
+
+.weatherHeader {
+    color: #fff !important;
+    text-align: center;
+    margin-bottom: 41px;
+}
+
+.forcast {
+    color: aliceblue;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.zipcode {
+    color: #fff;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.zipcodeFont {
+    color: #a1b3c5;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.input {
+    text-align: center;
+}
+
+.inputMain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputFields {
+    margin-right: 10px;
+    box-shadow: 3px 4px 7px -4px rgba(0, 0, 0, 0.65) !important;
+}
+
+.inputData {
+    padding: 7px 171px 7px 10px;
+}
+
+.enterButton {
+    background-color: #df6435 !important;
+    border-width: 0px !important;
+    color: #fff !important;
+    padding: 9px 20px !important;
+    height: auto !important;
+    box-shadow: 3px 4px 7px -4px rgba(0, 0, 0, 0.65) !important;
+}

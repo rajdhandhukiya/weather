@@ -1,0 +1,49 @@
+.ErrorCard{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    border: 1px solid black;
+    background-color: #fff;
+    width: 335px;
+    height: 321px;
+    margin-top: 250px;
+}
+.locatIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 55px;
+}
+.errorText{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    text-align: center;
+}
+.errTxt{
+    font-family: 'Montserrat', sans-serif !important;
+}
+.tryAgain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.tryEror{
+    background-color: #df6435 !important;
+    border-width: 0px !important;
+    color: #fff !important;
+    box-shadow: 3px 4px 7px -4px rgba(0, 0, 0, 0.65) !important;
+}
+.tryEror:hover{
+    background-color: #df6435 !important;
+    border-width: 0px !important;
+    color: #fff !important;
+    box-shadow: 3px 4px 7px -4px rgba(0, 0, 0, 0.65) !important;
+}
+.mainError{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
